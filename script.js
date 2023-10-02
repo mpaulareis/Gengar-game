@@ -28,8 +28,8 @@ ditto.style.left = `${dittoPosicao}px`;
 happyGengar.style.animation = 'none';
 happyGengar.style.bottom = `${gengarPosicao}px`;
 
-happyGengar.src = './imagens/gengar_conformado-removebg-preview.png';
-ditto.src = './imagens/ditto_raiva-removebg-preview.png'
+happyGengar.src = './gengar_conformado-removebg-preview.png';
+ditto.src = './ditto_raiva-removebg-preview.png'
     
 }
 }, 10);
